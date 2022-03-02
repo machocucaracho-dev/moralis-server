@@ -2,6 +2,7 @@
   "name": "moralis-server",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://machocucaracho-dev.github.io/moralis-server/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
